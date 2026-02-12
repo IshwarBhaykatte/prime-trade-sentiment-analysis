@@ -9,8 +9,11 @@ This project analyzes how trader performance changes under different market sent
 
 ⚙️ Methodology
 1.Cleaned and processed historical trading data
+
 2.Merged with Fear & Greed sentiment index
+
 3.Created performance metrics:
+
 >Profit/Loss (PnL)
 >Win Rate
 >Trade Size
