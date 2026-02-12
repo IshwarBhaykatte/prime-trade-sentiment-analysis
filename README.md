@@ -29,9 +29,14 @@ This project analyzes how trader performance changes under different market sent
 📈 Key Insights
 
 Extreme Greed shows the highest average profit and win rate
+
 Traders take largest risks during Fear, but performance is unstable
+
 Extreme Fear has the highest volatility, indicating panic trading
+
 Neutral markets provide the most stable but lower returns
+
+
 
 | Sentiment     | Strategy                                     |
 | ------------- | -------------------------------------------- |
@@ -41,20 +46,28 @@ Neutral markets provide the most stable but lower returns
 | Neutral       | Use low-risk strategies                      |
 
 
+
 🛠 How to Run
 
 1.Clone the repository
+
 2.Install dependencies:
   pip install pandas matplotlib seaborn
+  
 3.Open the Jupyter notebook and run all cells
+
 
 
 📂 Output Visualizations
 
 Graphs included in this repository show:
+
 Mean PnL by Sentiment
+
 Win Rate by Sentiment
+
 Volatility by Sentiment
+
 Average Position Size
 
 
