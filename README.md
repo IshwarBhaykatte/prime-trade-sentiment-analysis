@@ -7,7 +7,8 @@
 This project analyzes how trader performance changes under different market sentiment conditions (Fear vs Greed Index). The goal is to identify behavioral patterns and design data-driven trading strategies.
 
 
-⚙️ Methodology
+### ⚙️ Methodology
+
 1.Cleaned and processed historical trading data
 
 2.Merged with Fear & Greed sentiment index
@@ -15,18 +16,26 @@ This project analyzes how trader performance changes under different market sent
 3.Created performance metrics:
 
 >Profit/Loss (PnL)
+
 >Win Rate
+
 >Trade Size
+
 >Volatility (Risk)
 
 4.Grouped performance by sentiment classification:
+
 >Extreme Fear
+
 >Fear
+
 >Neutral
+
 >Greed
+
 >Extreme Greed
 
-📈 Key Insights
+### 📈 Key Insights
 
 Extreme Greed shows the highest average profit and win rate
 
@@ -47,7 +56,7 @@ Neutral markets provide the most stable but lower returns
 
 
 
-🛠 How to Run
+### 🛠 How to Run
 
 1.Clone the repository
 
@@ -58,7 +67,7 @@ Neutral markets provide the most stable but lower returns
 
 
 
-📂 Output Visualizations
+### 📂 Output Visualizations
 
 Graphs included in this repository show:
 
