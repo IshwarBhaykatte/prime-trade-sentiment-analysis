@@ -38,13 +38,13 @@ This project analyzes how trader performance changes under different market sent
 
 ### 📈 Key Insights
 
-Extreme Greed shows the highest average profit and win rate
+->Extreme Greed shows the highest average profit and win rate
 
-Traders take largest risks during Fear, but performance is unstable
+->Traders take largest risks during Fear, but performance is unstable
 
-Extreme Fear has the highest volatility, indicating panic trading
+->Extreme Fear has the highest volatility, indicating panic trading
 
-Neutral markets provide the most stable but lower returns
+->Neutral markets provide the most stable but lower returns
 
 
 
