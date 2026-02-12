@@ -1,8 +1,9 @@
 # prime-trade-sentiment-analysis
 
 
-📊 Trader Behavior vs Market Sentiment Analysis
-📌 Objective
+## 📊 Trader Behavior vs Market Sentiment Analysis
+
+### 📌 Objective
 
 This project analyzes how trader performance changes under different market sentiment conditions (Fear vs Greed Index). The goal is to identify behavioral patterns and design data-driven trading strategies.
 
